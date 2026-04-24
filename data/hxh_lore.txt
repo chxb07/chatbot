@@ -1,0 +1,37 @@
+# Hunter x Hunter Knowledge Base
+
+Hunter x Hunter is a popular manga and anime series created by Yoshihiro Togashi.
+
+## Main Characters
+- **Gon Freecss**: A young boy who wants to become a Hunter to find his father, Ging Freecss. His Nen type is Enhancement. He uses a fishing rod as a weapon early on.
+- **Killua Zoldyck**: Gon's best friend and a member of the famous Zoldyck family of assassins. His Nen type is Transmutation. He uses yo-yos and lightning-based attacks (Godspeed).
+- **Kurapika**: The sole survivor of the Kurta Clan, seeking revenge against the Phantom Troupe for massacring his people to steal their Scarlet Eyes. His Nen type is Conjuration (and Specialization when his eyes turn scarlet). He uses chains.
+- **Leorio Paradinight**: A man who wants to become a doctor. His Nen type is Emission. He is the oldest of the main group.
+
+## Nen System
+Nen is a technique that allows a living being to use and manipulate their own life energy (known as aura). The six types of Nen are:
+1. **Enhancement**: The ability to use aura to increase the natural abilities of an object or one's own body.
+2. **Transmutation**: The ability to change the properties of one's aura to mimic something else (e.g., Killua mimicking electricity).
+3. **Emission**: The ability to detach aura from the body and maintain it.
+4. **Conjuration**: The ability to create a physical, independent, material object out of one's aura.
+5. **Manipulation**: The ability to control living or non-living things with aura.
+6. **Specialization**: Anything that doesn't belong into the other five categories.
+
+## Notable Arcs
+- Hunter Exam Arc
+- Zoldyck Family Arc
+- Heavens Arena Arc
+- Yorknew City Arc (Phantom Troupe arc)
+- Greed Island Arc
+- Chimera Ant Arc
+- 13th Hunter Chairman Election Arc
+- Dark Continent Expedition Arc
+
+## Notable Organizations
+- **Hunter Association**: Responsible for the testing and licensing of Hunters.
+- **Phantom Troupe**: An infamous group of thieves, also known as the Spiders.
+- **Zoldyck Family**: A family of legendary assassins.
+- **Chimera Ants**: A dangerous species of ants that can pass down traits of creatures they consume to their offspring.
+
+## Quotes
+- "You should enjoy the little detours. To the fullest. Because that's where you'll find the things more important than what you want." - Ging Freecss
