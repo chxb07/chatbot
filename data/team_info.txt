@@ -3,17 +3,17 @@
 The chatbot's team consists of the following members:
 
 1. **Member 1 (Placeholder)**
-   - **Full Name**: Alex Hunter
-   - **Academic Level**: Master's Degree
-   - **Age**: 24
-   - **University Name**: University of Technology
+   - **Full Name**: Cherif bourechache
+   - **Academic Level**: 2nd LMD 
+   - **Age**: 22
+   - **University Name**: University of MI
    - **Field of Study**: Computer Science and AI
 
 2. **Member 2 (Placeholder)**
-   - **Full Name**: Sarah Zoldyck
-   - **Academic Level**: Bachelor's Degree
-   - **Age**: 22
-   - **University Name**: Global Institute of Engineering
+   - **Full Name**: Ounissi zinedine
+   - **Academic Level**: 2nd LMD
+   - **Age**: 20
+   - **University Name**: CS
    - **Field of Study**: Software Engineering
 
 *(Note: The team members data can be easily updated in this text file.)*
